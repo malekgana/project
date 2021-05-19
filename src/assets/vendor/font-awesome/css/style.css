@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: #fff;
+    color:aqua;
+}
+.intro{
+    height:100vh;
+    background: linear-gradient(#fff 0%,#ff6 50%,#ff6f59 100%);
+}
